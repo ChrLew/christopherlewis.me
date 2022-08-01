@@ -11,6 +11,4 @@ showReadingTime: false
 showEdit: false
 ---
 
-{{< lead >}}
 My CV is availible in [PDF](/cv/cv.pdf) or [HTML](/cv/cv.html) form.
-{{< /lead >}}
