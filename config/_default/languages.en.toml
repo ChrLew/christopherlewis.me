@@ -1,7 +1,7 @@
-languageCode = "en-au"
-languageName = "English (Australia)"
-displayName = ":flag-au:"
-isoCode = "en-AU"
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
 weight = 1
 rtl = false
 
@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Christopher Lewis"
   image = "img/author.jpg"
-  headline = "Chemist turned Data Ninja"
+  headline = "Chemist turned Data Analyst"
   bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
   links = [
     { linkedin = "https://linkedin.com/in/chr-lewis" },
